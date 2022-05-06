@@ -16,6 +16,6 @@ spec:
       spec:
         containers:
         - name: myjavaapp-container
-          image: pinkukr/myjavalogin:1
+          image: pinkukr/myjavaapplogin:1
           ports:
           - containerPort: 8080
